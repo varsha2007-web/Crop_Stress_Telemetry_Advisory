@@ -53,3 +53,32 @@ Scoring in short: Agentic architecture & autonomy 40, domain utility 30, code hy
 | Agent loops on one tool | Lower `MAX_ITERATIONS`; the repeat guard in `agent/core.py` forces an answer |
 | No admin / old Python | Use the Colab notebook |
 | `No API key found` | Fill `.env` (copy from `.env.example`) |
+
+
+Our Hackathon Project: Crop Stress Telemetry Advisory
+
+Project Description
+
+An AI-powered smart agriculture system to detect crop stress and provide advisory recommendations.
+
+Problem
+
+Farmers face difficulties identifying crop stress at an early stage.
+
+Solution
+
+Our system analyses crop telemetry data and provides useful recommendations to farmers.
+
+Features
+
+- Crop stress detection
+- Telemetry data monitoring
+- AI-based recommendations
+- Smart agriculture advisory
+
+Technologies
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Data Analysis
